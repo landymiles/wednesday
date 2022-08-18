@@ -1,0 +1,10 @@
+.voge{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    padding: 20px;
+}
+.moky{
+    display: flex;
+    justify-content: center;
+}

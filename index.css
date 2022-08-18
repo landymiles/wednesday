@@ -1,0 +1,30 @@
+/* body{
+    background-image: url(kki.jpg);
+} */
+button{
+    border: none;
+    float: left;
+}
+#src{
+    text-align: center;
+    top: 5%;
+    left: 20%;
+    padding: 15px;
+    border-radius: 15px;
+    border: solid;
+    position: absolute;
+    height: 20px;
+    width: 800px;
+    display: flex;
+}
+input{
+    width: 600px;
+    border: none;
+    outline: none;
+}
+.vont{
+background-color: coral;
+border: 5px solid black;
+margin-top: 20px;
+padding: 20px;
+}
